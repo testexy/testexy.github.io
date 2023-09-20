@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'IBMPlexSans-extra-light-italic';
+        src: url('./extra_light_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-extra-light';
+        src: url('./extra_light.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-italic';
+        src: url('./italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-light-italic';
+        src: url('./light_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-light';
+        src: url('./light.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-regular';
+        src: url('./regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-thin-italic';
+        src: url('./thin_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-thin';
+        src: url('./thin.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-variable-italic';
+        src: url('./variable_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-variable';
+        src: url('./variable.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-black-italic';
+        src: url('./black_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-black';
+        src: url('./black.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-bold-italic';
+        src: url('./bold_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-bold';
+        src: url('./bold.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-extra-bold-italic';
+        src: url('./extra_bold_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-extra-bold';
+        src: url('./extra_bold.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-medium-italic';
+        src: url('./medium_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-medium';
+        src: url('./medium.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-semi-bold-italic';
+        src: url('./semi_bold_italic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'IBMPlexSans-semi-bold';
+        src: url('./semi_bold.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}

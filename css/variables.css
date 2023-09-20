@@ -1,0 +1,10 @@
+@import '../assets/font/IBM_Plex_Sans/IBM.css';
+:root {
+  --gray: #d9d9d9;
+  --cor1: #44148b;
+  --cor2: #4ccaff;
+  --cor3: #eeeeee;
+  --cor4: #161B22;
+
+  --font-family: 'IBMPlexSans-regular';
+}

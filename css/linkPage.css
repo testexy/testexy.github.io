@@ -1,0 +1,143 @@
+/* @import './globals.css'; */
+@import '/css/components/social.css';
+@import '../assets/font/IBM_Plex_Sans/IBM.css';
+
+:root {
+    --gray: #d9d9d9;
+    --cor1: #44148b;
+    --cor2: #4ccaff;
+    --cor3: #eeeeee;
+    --cor4: #161B22;
+  
+    --font-family: 'IBMPlexSans-regular';
+}  
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1, h2 {
+    color: var(--cor1);
+    font-family: 'IBMPlexSans-regular', Arial;
+}
+
+body {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 99%;
+    background-color: var(--cor4);
+    height: 90vh;
+    overflow: auto;
+    flex-direction: column;
+}
+
+
+@media only screen and (max-width: 768px) {
+    body {
+        width: 97%;
+    }
+
+    .containerLink1 {
+        width: 60vw !important;
+        margin-bottom: 2em;
+    }
+
+    .containerLink2 {
+        width: 60vw !important;
+        margin-bottom: 2em;
+    }
+
+    .containerLink3 {
+        width: 60vw !important;
+        margin-bottom: 2em;
+    }
+}
+
+
+.containerLink1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40vw;
+    height: 3em;
+    background-color: var(--gray);
+    border-color: #161B22;
+    border-radius: 15px;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+    margin-bottom: 2.5em;   
+}
+
+.containerLink1 a{
+    display: flex;
+    flex-direction: row;
+}
+
+.containerLink1:hover {
+    background-color: var(--cor2);
+    transition-duration: .3s;
+}
+
+
+
+.containerLink2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40vw;
+    height: 3em;
+    background-color: var(--gray);
+    border-color: #161B22;
+    border-radius: 15px;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+    margin-bottom: 2.5em;   
+}
+
+.containerLink2 a{
+    display: flex;
+    flex-direction: row;
+}
+
+.containerLink2:hover {
+    background-color: #d62976;
+    transition-duration: .3s;
+}
+
+.linkSvg {
+    width: 2.5em;
+    margin-right: 1em;
+}
+
+
+
+.containerLink3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40vw;
+    height: 3em;
+    background-color: var(--gray);
+    border-color: #161B22;
+    border-radius: 15px;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+    margin-bottom: 2.5em;   
+}
+
+.containerLink3 a{
+    display: flex;
+    flex-direction: row;
+}
+
+.containerLink3:hover {
+    background-color: #128C7E;
+    transition-duration: .3s;
+}
